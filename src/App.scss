@@ -97,12 +97,11 @@ body {
   overflow: hidden;
   @media only screen and (max-width: 768px) {
     & {
-      font-size: 3.5rem;
+      font-size: 3.2rem;
       font-weight: 300;
       color: $font-color;
       text-align: right;
       background-color: $background-color;
-      padding-top: 0.5rem;
       padding-right: 1rem;
       padding-left: 1rem;
       grid-column: 1 / -1;
@@ -112,7 +111,7 @@ body {
 }
 
 .btn {
-  font-weight: 400;
+  font-weight: 300;
   color: $font-color;
   background-color: $gray-light-desktop;
   display: -ms-grid;

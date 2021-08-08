@@ -87,12 +87,11 @@ body {
 
 @media only screen and (max-width: 768px) {
   .screen {
-    font-size: 3.5rem;
+    font-size: 3.2rem;
     font-weight: 300;
     color: #ffff;
     text-align: right;
     background-color: #000000;
-    padding-top: 0.5rem;
     padding-right: 1rem;
     padding-left: 1rem;
     grid-column: 1 / -1;
@@ -101,7 +100,7 @@ body {
 }
 
 .btn {
-  font-weight: 400;
+  font-weight: 300;
   color: #ffff;
   background-color: #646e77;
   display: -ms-grid;
