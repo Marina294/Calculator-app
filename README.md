@@ -10,3 +10,4 @@ Demo
 https://calculator-clone-apple.netlify.app/
 
 ![app](/src/images/calculator.png)
+
