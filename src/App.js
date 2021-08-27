@@ -133,7 +133,7 @@ function App() {
       <footer className="footer">
       <div>
         calculator by &nbsp; 
-        <a target="_blank" rel="noreferrer" href="https://github.com/Marina294?tab=repositories" >Marina</a>
+        <a target="_blank" rel="noreferrer" href="https://github.com/marina294" >Marina</a>
       </div>
     </footer>
     </div>
