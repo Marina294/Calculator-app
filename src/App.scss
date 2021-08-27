@@ -45,6 +45,23 @@ body {
   }
 }
 
+footer {
+  color:#ffffff;
+  font-family: Helvetica;
+  font-size: 0.4em;
+  font-weight: 200;
+  margin-top: 1em;
+  text-align: center;
+  padding: 1em;
+}
+a:link, a:visited, a:hover, a:active {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: underline;     
+  text-decoration-color: #ffffff; 
+
+}
+
 .container {
   height: 30rem;
   /* min-height: 100rem; */

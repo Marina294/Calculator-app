@@ -130,6 +130,12 @@ function App() {
         <div className='btn' onClick={inputNum}>.</div>
         <div className='btn orange' onClick={equals}>=</div>
       </div>
+      <footer className="footer">
+      <div>
+        calculator by 
+        <a target="_blank" rel="noreferrer" href="https://github.com/Marina294?tab=repositories" >Marina</a>
+      </div>
+    </footer>
     </div>
   );
 }
